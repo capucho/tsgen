@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
     "test": "jest --coverage --detectOpenHandles --silent",
-    "create-lib": "hygen"
+    "create-lib": "hygen libgen new"
   },
   "repository": {
     "type": "git",
