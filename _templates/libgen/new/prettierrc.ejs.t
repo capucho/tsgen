@@ -1,3 +1,6 @@
+---
+to: <%= path %>/<%= projectName %>/.prettierrc.js
+---
 module.exports = {
   semi: true,
   trailingComma: "all",
